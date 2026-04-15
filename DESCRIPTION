@@ -1,0 +1,32 @@
+Package: arber
+Type: Package
+Title: Geospatial Forest and Soil Ecology
+Source: A Friend
+Version: 0.5.0
+Authors@R: c(
+    person(
+      "Jacob", "Arber",
+      email = "jacobrarber@gmail.com",
+      role = c("aut", "cre"),
+      comment = c(ORCID = "0009-0001-3647-2056")
+    )
+  )
+Description: More about what it does (maybe more than one line).
+    Continuation lines should be indented.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: false
+Depends: 
+    R (>= 3.5)
+RoxygenNote: 7.3.3
+Imports: 
+    magrittr,
+    rvest,
+    sf,
+    terra, 
+    dplyr, 
+    corrplot, 
+    tibble, 
+    tidyr
+Notes: If 'polaris2()' refuses to return raster for a coastal state, the easiest workaround is to 'polaris()' the region and 'cut_to_area()' of the given state. 
+
