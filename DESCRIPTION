@@ -29,4 +29,5 @@ Imports:
     tibble, 
     tidyr
 Notes: If 'polaris2()' refuses to return raster for a coastal state, the easiest workaround is to 'polaris()' the region and 'cut_to_area()' of the given state. 
-
+URL: https://github.com/jrarber/arber
+BugReports: https://github.com/jrarber/arber/issues
