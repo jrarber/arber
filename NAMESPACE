@@ -1,3 +1,2 @@
 exportPattern("^[[:alpha:]]+")
-export(treeIVdata, State_latlongs)
 importFrom(magrittr,"%>%")
