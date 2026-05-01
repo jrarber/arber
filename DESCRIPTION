@@ -2,7 +2,7 @@ Package: arber
 Type: Package
 Title: Geospatial Forest and Soil Ecology
 Source: A Friend
-Version: 0.5.0
+Version: 0.7.0
 Authors@R: c(
     person(
       "Jacob", "Arber",
