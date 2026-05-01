@@ -18,7 +18,7 @@
 #' @param keep.years boolean. If true will return a dataframe with each years associated growth and respiration broken down by main organs (roots, stems, leaves).
 #'
 #' @return Returns the maximum height, how long it took to grow, and a data frame of each years growth assessment (optional).
-
+#' @export
 
 treeheight <- function(wood.dens.stem,
                        wood.dens.root,

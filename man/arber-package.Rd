@@ -8,6 +8,14 @@
 \description{
 More about what it does (maybe more than one line). Continuation lines should be indented.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/jrarber/arber}
+  \item Report bugs at \url{https://github.com/jrarber/arber/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Jacob Arber \email{jacobrarber@gmail.com} (\href{https://orcid.org/0009-0001-3647-2056}{ORCID})
 
